@@ -145,7 +145,7 @@ if (typeof cssVars !== 'undefined') {
 
 //typing animation
 var typed = new Typed('.typing', {
-  strings: ['Analyst', 'Scientist'],
+  strings: ['Data Enthusiast', 'Business Enthusiast'],
   typeSpeed: 150,
   backDelay: 2000,
   backSpeed: 80,

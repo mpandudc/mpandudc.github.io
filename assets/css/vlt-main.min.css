@@ -129,9 +129,7 @@
 }
 .vlt-large-heading {
   font-size: 5rem;
-}
-.vlt-medium-heading {
-  font-size: 6.5rem;
+  width: 70%;
 }
 @media only screen and (max-width: 575px) {
   .vlt-large-heading {
