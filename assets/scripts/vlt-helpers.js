@@ -145,9 +145,9 @@ if (typeof cssVars !== 'undefined') {
 
 //typing animation
 var typed = new Typed('.typing', {
-  strings: ['Data Enthusiast', 'Business Enthusiast'],
+  strings: ['Satuan', 'Paket Usaha', 'Ball Segel'],
   typeSpeed: 150,
   backDelay: 2000,
-  backSpeed: 80,
+  backSpeed: 90,
   loop: true,
 });
