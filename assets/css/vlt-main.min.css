@@ -1,5 +1,5 @@
 :root {
-  --p1: #c3323a;
+  --p1: #ed7d3c;
   --pf: Inter;
 }
 @-webkit-keyframes vlt_animate_icon_bottom {
@@ -789,8 +789,8 @@ textarea:focus::-webkit-input-placeholder {
 }
 .vlt-navbar .vlt-navbar-logo img {
   display: block;
-  max-width: none;
-  max-height: 24px;
+  max-width: 80px;
+  max-height: 80px;
 }
 .is-light .vlt-navbar .vlt-navbar-logo img.black {
   display: none;
@@ -1500,8 +1500,8 @@ body .pp-scrollable {
 }
 .vlt-award-item__logo {
   overflow: hidden;
-  width: 5rem;
-  height: 5rem;
+  width: 2.5rem;
+  height: 2.5rem;
   margin-right: 1.875rem;
   -webkit-transition: -webkit-box-shadow 0.3s cubic-bezier(0.46, 0.03, 0.52, 0.96);
   transition: -webkit-box-shadow 0.3s cubic-bezier(0.46, 0.03, 0.52, 0.96);
@@ -2173,7 +2173,7 @@ body .pp-scrollable {
   }
 }
 .vlt-timeline-item__title {
-  font-size: 1.375rem;
+  font-size: 1.675rem;
   color: #fff;
 }
 @media only screen and (max-width: 767px) {

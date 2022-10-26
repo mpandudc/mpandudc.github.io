@@ -21,13 +21,14 @@ $(document).ready(function () {
     { label: 'Feltics' },
     { label: 'Jeep' },
     { label: 'NB' },
+    { label: 'Thrasher' },
   ];
 
   var settings = {
     entries: entries,
-    width: 680,
-    height: 680,
-    radius: '70%',
+    width: 420,
+    height: 420,
+    radius: '80%',
     radiusMin: 75,
     bgDraw: true,
     bgColor: '#fff',
