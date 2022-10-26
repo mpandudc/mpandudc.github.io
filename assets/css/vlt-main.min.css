@@ -1576,7 +1576,7 @@ body .pp-scrollable {
   height: 1em;
 }
 .vlt-post-thumbnail + .vlt-post-content {
-  padding-top: 1.875rem;
+  padding-top: 0.5rem;
 }
 .vlt-post-title {
   font-size: 1.5rem;

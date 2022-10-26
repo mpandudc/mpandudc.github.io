@@ -22,6 +22,8 @@ $(document).ready(function () {
     { label: 'Jeep' },
     { label: 'NB' },
     { label: 'Thrasher' },
+    { label: 'UNIQLO' },
+    { label: 'H&M' },
   ];
 
   var settings = {
